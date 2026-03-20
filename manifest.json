@@ -1,0 +1,14 @@
+{
+    "name": "Mock",
+    "description": "Adds a /mock command that converts text to strict alternating case with a random start (e.g. gOoGlE).",
+    "authors": [
+        {
+            "name": "Vaiskiainen",
+            "id": "1465743112428064955"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_message_edit"
+    }
+}
